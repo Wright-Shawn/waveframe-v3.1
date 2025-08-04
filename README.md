@@ -18,7 +18,8 @@ This is the official continuation of Waveframe v3.0, now frozen and archived und
 
 - Adopted Apache 2.0 License for stricter attribution and legal clarity  
 - Enhanced the H(z) expansion law with improved entropy-gradient derivation  
-- Refined the entropy-horizon relation:  S(t) = π ⁄ H(t)²  
+- Refined the entropy-horizon relation:  
+S(t) = π ⁄ H(t)²  
 - Introduced a foundation for information-first geometry in future versions  
 - Reorganized repository for improved reproducibility and clarity
 
