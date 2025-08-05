@@ -1,0 +1,73 @@
+## Overview
+
+This document establishes the mathematical backbone of the Waveframe 3.1 cosmology by linking geometric expansion to informational entropy. We begin by defining the entropy of the cosmic horizon and derive its influence on the expansion rate of the universe.
+
+## 1. Horizon Entropy as a Function of Expansion
+
+We define the entropy \( S(t) \) of the observable universe as proportional to the area of the cosmological horizon, following the holographic principle:
+
+\[
+S(t) = \frac{π}{H(t)^2}
+\]
+
+Where:
+- \( S(t) \) is the entropy at cosmic time \( t \)
+- \( H(t) \) is the Hubble parameter (expansion rate)
+
+This equation encodes the idea that as the universe expands (i.e., as \( H(t) \) decreases), the observable entropy increases.
+
+## 2. Differential Relation Between Entropy and Expansion
+
+Differentiating \( S(t) \) with respect to time yields:
+
+\[
+\frac{dS}{dt} = -\frac{2π}{H(t)^3} \cdot \frac{dH}{dt}
+\]
+
+This defines a coupling between the rate of change of entropy and the time derivative of the expansion rate.
+
+We note that:
+- \( \frac{dH}{dt} < 0 \) implies \( \frac{dS}{dt} > 0 \)
+- This is consistent with the second law of thermodynamics
+
+## 3. Entropic Constraint on Expansion Dynamics
+
+Assuming entropy must increase monotonically over time, we postulate that the expansion rate must follow a decay law compatible with growing entropy:
+
+\[
+H(t) ∝ \frac{1}{\sqrt{t - t₀}}
+\]
+
+Where \( t₀ \) represents an effective onset time of the observable expansion (not necessarily the Big Bang). Substituting into the entropy equation gives:
+
+\[
+S(t) ∝ (t - t₀)
+\]
+
+This linear growth of entropy aligns with a constant entropy production rate—a simplifying but powerful approximation.
+
+## 4. Curvature and Information Capacity
+
+Assuming that the entropy reflects the maximum information capacity \( I_{max}(t) \) of the observable universe, we can equate:
+
+\[
+I_{max}(t) = S(t) ∝ \frac{π}{H(t)^2}
+\]
+
+Thus, spatial curvature and information content are inversely linked. Lower curvature (smaller \( H \)) implies a higher informational capacity.
+
+## 5. Geometric Interpretation
+
+Under this formulation:
+- Expansion is **not** driven by energy or pressure,
+- But by **information accumulation**, bounded by horizon entropy.
+
+The geometry of the universe evolves to preserve causal consistency while maximizing accessible information over time. The universe expands *because* it must accommodate growing entropic states on its boundary surface.
+
+---
+
+## Summary
+
+This formulation replaces traditional energy-based expansion mechanisms with a fundamentally informational engine. Horizon entropy drives cosmic geometry, and the observed Hubble flow reflects the unfolding of accessible information in spacetime.
+
+This reframing sets the stage for emergent time, causal horizons, and entropy-based dynamics—addressed in subsequent files.
