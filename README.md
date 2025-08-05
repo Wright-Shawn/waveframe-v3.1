@@ -1,5 +1,7 @@
 # Waveframe V3.1
 
+[![DOI](https://zenodo.org/badge/1031782803.svg)](https://doi.org/10.5281/zenodo.16743191)
+
 Refined entropy-based cosmology model. Successor to v3.0. Stricter license, sharpened formulations, enhanced horizon dynamics, and a foundation for information-first geometry. No scalar fields.
 
 ---
